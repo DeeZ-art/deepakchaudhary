@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deepakchaudhary/static/css/main.dc207233.css",
+    "main.js": "/deepakchaudhary/static/js/main.8a0f9d70.js",
+    "static/js/787.283a17e6.chunk.js": "/deepakchaudhary/static/js/787.283a17e6.chunk.js",
+    "static/media/flatdesign.png": "/deepakchaudhary/static/media/flatdesign.613db10c04e5720eae98.png",
+    "static/media/python.png": "/deepakchaudhary/static/media/python.c44b9b809ebf766cbb4f.png",
+    "static/media/django.png": "/deepakchaudhary/static/media/django.161aef0b7932bfd883c4.png",
+    "static/media/mongodb.png": "/deepakchaudhary/static/media/mongodb.558416a343d881d8371e.png",
+    "static/media/htmlandcss.png": "/deepakchaudhary/static/media/htmlandcss.d436afe14323ff1dab77.png",
+    "static/media/nodejs.png": "/deepakchaudhary/static/media/nodejs.f4f812715a1a75638c98.png",
+    "static/media/mysql.png": "/deepakchaudhary/static/media/mysql.96a71ba349f7dbfcd624.png",
+    "static/media/cadv.png": "/deepakchaudhary/static/media/cadv.542b4953c52351bf1288.png",
+    "static/media/react.png": "/deepakchaudhary/static/media/react.cd4ab68456d5875b788e.png",
+    "index.html": "/deepakchaudhary/index.html",
+    "main.dc207233.css.map": "/deepakchaudhary/static/css/main.dc207233.css.map",
+    "main.8a0f9d70.js.map": "/deepakchaudhary/static/js/main.8a0f9d70.js.map",
+    "787.283a17e6.chunk.js.map": "/deepakchaudhary/static/js/787.283a17e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc207233.css",
+    "static/js/main.8a0f9d70.js"
+  ]
+}
